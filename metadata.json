@@ -1,0 +1,6 @@
+{
+  "name": "Load, Aim... Shoot! - Samurai Duel",
+  "description": "Port web do aclamado jogo indie de duelo samurai: Load, Aim... Shoot! Teste seus reflexos, dispare na hora certa e defenda com a katana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
